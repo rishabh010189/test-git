@@ -1,1 +1,1 @@
-console.log("hello")
+const printMe = mssg => console.log(mssg)
